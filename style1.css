@@ -1,0 +1,28 @@
+.back{
+    background-color: white;
+    text-align: center;
+    
+}
+img{
+    border-radius: 500px;
+    border: 10px solid black;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    margin: auto;
+}
+.box1{
+    background-color: blue;
+    
+}
+.box2{
+    background-color:blueviolet;
+    
+}
+.fa-arrow-right{
+    color: aliceblue;
+    font-size: 40px;
+    padding: 30px 30px;
+}
